@@ -1,0 +1,13 @@
+# Organica AS
+
+- Bransje: Skjønnhetspleie
+- Sted: Oslo
+- E-post: post@organica.no
+
+## Tjenester
+
+- Skjønnhetspleie: Skjønnhetspleie i Oslo. Fortell oss hva du ønsker hjelp med.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).
